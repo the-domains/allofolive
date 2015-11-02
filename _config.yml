@@ -1,0 +1,23 @@
+name: allofolive
+favicon: null
+layout_spectrum: 0.40143095166422427
+typography_spectrum: 0.9023146305698901
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5648606491740793
+  lightness: 0.11356444074772298
+  saturation: 0.676710668951273
+  rhythmicContrast: 0.18454816448502243
+purpose: []
